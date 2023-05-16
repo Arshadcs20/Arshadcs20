@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arshadcs20
-- 👀 I’m interested in full stack development of web, react native and android.
+- 👀 I’m interested in full stack development of web, next.js, react, react native and android development.
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on different trending projects.
 - 📫 How to reach me email:marshadcs20@gmail.com
